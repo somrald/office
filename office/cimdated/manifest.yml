@@ -1,0 +1,5 @@
+---
+applications:
+ - name: outlook
+   random-route: true
+   memory: 128M
